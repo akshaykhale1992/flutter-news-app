@@ -1,6 +1,7 @@
-# news_app
+# Flutter News App
 
-A new Flutter project.
+A simple Flutter Project which fetches News Articles using NewsApi.org and shows in a List View.
+Don't forget to Add your News API access token in lib/Activities/mainActivity.dart file, it will not work without it.
 
 ## Getting Started
 
